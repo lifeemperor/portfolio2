@@ -34,7 +34,7 @@ h1, h2{
     position:absolute;
     left:1000px
 }
-@media (max-width:600px){
+@media (max-width:800px){
     body{
         background-color: #526D82;
     }
